@@ -1,4 +1,4 @@
-update=Sat 01 May 2021 12:30:23 PM CEST
+update=Mon 03 May 2021 10:32:13 AM CEST
 version=1
 last_client=kicad
 [general]
@@ -235,6 +235,17 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
+Clearance=0.2
+TrackWidth=0.2
+ViaDiameter=0.6
+ViaDrill=0.3
+uViaDiameter=0.3
+uViaDrill=0.1
+dPairWidth=0.2
+dPairGap=0.25
+dPairViaGap=0.25
+[pcbnew/Netclasses/1]
+Name=supply_voltage
 Clearance=0.2
 TrackWidth=0.2
 ViaDiameter=0.6
